@@ -3,6 +3,8 @@
   "displayName": "ai-voice-note",
   "description": "a vscode extension that can take notes by voice",
   "version": "0.0.1",
+  "publisher": "www-max",
+  "repository": "https://github.com/WWW-max/ai-voice-notes",
   "engines": {
     "vscode": "^1.91.0"
   },
